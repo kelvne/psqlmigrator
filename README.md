@@ -1,2 +1,2 @@
-# psql_migrator
+# psqlmigrator
 The simplest PostgreSQL migrator tool, for personal projects.
